@@ -1,9 +1,9 @@
 # Integrative software engineering course - Final Project
-Project Goal:
+<ins>**Project Goal:**</ins>
 		The project's main goal is to experience how to develop a system and integrating between it's components.
 		The project was done by a group of students through sprints, which illustrates the procedure in the industry today.
 		
-Implementation:
+<ins>**Implementation:**</ins>
 		Database: MySQL
 		BackEnd: Java Spring
 	
